@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+numpy
+opencv-python
+tensorflow  # This is for keras
+scikit-learn
+requests

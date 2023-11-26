@@ -1,5 +1,7 @@
 # imgClassificationModel
 
+j'ai utilsé notebook pour crée le model.
+
 1.installer les dependances python pour le machine learning
 pip install -r requirements.txt
 
